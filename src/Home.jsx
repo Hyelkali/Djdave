@@ -569,7 +569,7 @@ export default function Home() {
 
       <footer className="bg-gray-800 text-white py-8">
         <div className="container mx-auto px-4 flex justify-between items-center">
-          <p>&copy; 2023 DJ Dave. All rights reserved.</p>
+          <p>&copy; 2024 DJ Dave. All rights reserved.</p>
           <button
             className="bg-yellow-400 text-gray-800 px-4 py-2 rounded-md hover:bg-yellow-300 transition-colors"
             onClick={() => setIsUploadModalOpen(true)}
